@@ -1,0 +1,6 @@
+{
+
+  "require": {
+    "kartik-v/bootstrap-fileinput": "dev-master"
+}
+}
